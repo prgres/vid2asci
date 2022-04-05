@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Attach",
+            "type": "go",
+            "request": "attach",
+            "mode": "local",
+            "processId": 77399
+        },
+        {
+            "name": "Run",
+            "type": "go",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "mode": "auto",
+            "env": {},
+            "program": "${workspaceFolder}",
+            "cwd": "${workspaceFolder}",
+        }
+    ]
+}

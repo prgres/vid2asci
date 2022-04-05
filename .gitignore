@@ -1,4 +1,9 @@
 *.mp4
 *.jpg
 *.txt
+
+chunks/**
+frames/**
+asci/**
+
 /**/.DS_Store
